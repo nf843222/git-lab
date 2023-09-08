@@ -124,4 +124,3 @@ answer14 =
     To https://github.com/nf843222/git-lab.git
         eb55f0a..9e12bcb  main -> main
  -----IT SENT THE INFORMATION TO BE COLLECTED ON GIT-HUB. -------------
-answer15 = 
